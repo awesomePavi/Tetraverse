@@ -1,0 +1,26 @@
+------------------
+KeyLayoutName: Srs
+leftKey: 37
+rightKey: 39
+downKey: 40
+spaceKey: 32
+xKey: 72
+zKey: 90
+escKey: 27
+cKey: 67
+aKey: 65
+sKey: 83
+------------------
+------------------
+KeyLayoutName: gg
+leftKey: 40
+rightKey: 39
+downKey: 84
+spaceKey: 68
+xKey: 72
+zKey: 157
+escKey: 27
+cKey: 16
+aKey: 66
+sKey: 83
+------------------
